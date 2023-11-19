@@ -5,6 +5,6 @@
 </p>
 <details>
    <summary>Riferimenti</summary>
-   -[Regolamento del progetto](project-specifications.pdf)
-   -[Relazione](Zaupa Riccardo - Relazione Progetto Programmazione ad Oggetti.pdf)
+   - [Regolamento del progetto](project-specifications.pdf)
+   - [Relazione](Zaupa Riccardo - Relazione Progetto Programmazione ad Oggetti.pdf)
 </details>
