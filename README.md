@@ -9,3 +9,18 @@
   - [Regolamento del progetto](project-specifications.pdf)
   - [Relazione finale del progetto](Zaupa%20Riccardo%20-%20Relazione%20Progetto%20Programmazione%20ad%20Oggetti.pdf)
 </details>
+
+Per compilare `CineMatrix`, clona il repository, poi esegui `qmake` e `make`:
+```bash
+ git clone https://github.com/rzaupa/Progetto-CineMatrix.git
+ cd .\Progetto-CineMatrix\CineMatrix\
+ qmake
+ make
+```
+Devi aver installato in precedenza `Qt`, `make` e un compilatore `C++`.
+
+Per eseguire l'applicazione segui i seguenti passaggi
+```bash
+cd release
+.\CineMatrix.exe
+```
