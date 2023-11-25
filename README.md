@@ -17,7 +17,7 @@ Per compilare `CineMatrix`, clona il repository, poi esegui `qmake` e `make`:
  qmake
  make
 ```
-Devi aver installato in precedenza `Qt`, `make` e un compilatore `C++`.
+Devi aver installato in precedenza `git`, `Qt`, `make` e un compilatore `C++`.
 
 Per eseguire l'applicazione segui i seguenti passaggi
 ```bash
