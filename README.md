@@ -20,3 +20,19 @@ Per eseguire l'applicazione segui i seguenti passaggi
 cd release
 .\CineMatrix.exe
 ```
+<h2>Su Linux e MacOS</h2>
+
+Per compilare `CineMatrix`, clona il repository, poi esegui `qmake` e `make`:
+```bash
+git clone https://github.com/rzaupa/CineMatrix.git
+cd .\CineMatrix\CineMatrix\
+qmake
+make
+```
+Devi aver installato in precedenza `git`, `Qt`, `make` e un compilatore `C++`.
+
+Per eseguire l'applicazione segui i seguenti passaggi
+```bash
+cd release
+./CineMatrix
+```
