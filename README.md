@@ -1,37 +1,37 @@
-<h1 style="text-align: center">CineMatrix</h1>
+# CineMatrix
 
-<p style="text-align: center">
-   Progetto didattico realizzato per il corso di <a href="https://didattica.unipd.it/off/2021/LT/SC/SC1167/000ZZ/SC02123180/N0">Programmazione ad Oggetti</a> dell'<a href="https://www.unipd.it/">Università degli Studi di Padova</a> A.A. 2022/23
-</p>
+This is a didactic project created for the course [Programmazione ad Oggetti](https://didattica.unipd.it/off/2021/LT/SC/SC1167/000ZZ/SC02123180/N0) at [Università degli Studi di Padova](https://www.unipd.it/) for the academic year 2022/23.
 
-<h2>Su Windows</h2>
+## Running the Application
 
-Per compilare `CineMatrix`, clona il repository, poi esegui `qmake` e `make`:
+To compile and run the application, ensure that you have `git`, `Qt`, `make`, and a `C++` compiler installed.
+
+### Windows
+
+Clone the repository and execute the following commands:
+
 ```bash
- git clone https://github.com/rzaupa/CineMatrix.git
- cd .\CineMatrix\CineMatrix\
- qmake
- make
+git clone https://github.com/rzaupa/CineMatrix.git
+cd .\CineMatrix\CineMatrix\
+qmake
+make
 ```
-Devi aver installato in precedenza `git`, `Qt`, `make` e un compilatore `C++`.
-
-Per eseguire l'applicazione segui i seguenti passaggi
+To run the application:
 ```bash
 cd release
 .\CineMatrix.exe
 ```
-<h2>Su Linux e MacOS</h2>
+### Linux and MacOs
 
-Per compilare `CineMatrix`, clona il repository, poi esegui `qmake` e `make`:
+Clone the repository and execute the following commands:
 ```bash
 git clone https://github.com/rzaupa/CineMatrix.git
 cd CineMatrix/CineMatrix/
 qmake
 make
 ```
-Devi aver installato in precedenza `git`, `Qt`, `make` e un compilatore `C++`.
 
-Per eseguire l'applicazione segui i seguenti passaggi
+To run the application:
 ```bash
 cd release
 ./CineMatrix
