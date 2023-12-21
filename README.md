@@ -25,7 +25,7 @@ cd release
 Per compilare `CineMatrix`, clona il repository, poi esegui `qmake` e `make`:
 ```bash
 git clone https://github.com/rzaupa/CineMatrix.git
-cd .\CineMatrix\CineMatrix\
+cd CineMatrix/CineMatrix/
 qmake
 make
 ```
