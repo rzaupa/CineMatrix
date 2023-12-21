@@ -21,7 +21,7 @@ To run the application:
 cd release
 .\CineMatrix.exe
 ```
-### Linux and MacOs
+### Linux and MacOS
 
 Clone the repository and execute the following commands:
 ```bash
