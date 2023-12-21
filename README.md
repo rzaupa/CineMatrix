@@ -1,6 +1,6 @@
 # CineMatrix
 
-This is a didactic project created for the course [Programmazione ad Oggetti](https://didattica.unipd.it/off/2021/LT/SC/SC1167/000ZZ/SC02123180/N0) at [Università degli Studi di Padova](https://www.unipd.it/) for the academic year 2022/23.
+This is a didactic project created for the course [Object-Oriented Programming](https://didattica.unipd.it/off/2021/LT/SC/SC1167/000ZZ/SC02123180/N0) at [University of Padua](https://www.unipd.it/) for the academic year 2022/23.
 
 ## Running the Application
 
